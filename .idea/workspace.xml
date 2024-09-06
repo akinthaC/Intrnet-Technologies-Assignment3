@@ -4,28 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4673ee9-82d3-4b98-a9df-4abde7683e30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Case1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Case2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Case3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Case4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Intrnet-Technologies-Assignment3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/Style/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/Style/normalize.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/images/6199528521907421328_121.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/images/82c65b9bb0a75026fc4c82a438b4cc9b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/images/kk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/images/large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/images/medium.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/images/medium2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/images/monkey.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/images/poster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/images/small.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assest/images/small2.jpg" afterDir="false" />
+    <list default="true" id="b4673ee9-82d3-4b98-a9df-4abde7683e30" name="Changes" comment="done">
+      <change afterPath="$PROJECT_DIR$/Case5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Case3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Case3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Case4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Case4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,11 +77,24 @@
       <workItem from="1725285773859" duration="6369000" />
       <workItem from="1725359056168" duration="856000" />
       <workItem from="1725556362220" duration="3902000" />
-      <workItem from="1725596097081" duration="3995000" />
+      <workItem from="1725596097081" duration="7058000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <option name="closed" value="true" />
+      <created>1725600236163</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725600236163</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>

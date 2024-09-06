@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4673ee9-82d3-4b98-a9df-4abde7683e30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Case4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intrnet-Technologies-Assignment3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assest/Style/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assest/Style/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assest/images/6199528521907421328_121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assest/images/82c65b9bb0a75026fc4c82a438b4cc9b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assest/images/kk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assest/images/large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assest/images/medium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assest/images/medium2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assest/images/monkey.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assest/images/poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assest/images/small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assest/images/small2.jpg" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2lFaXU1MMrRkpjzGugjNmHsSQpF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/my_projects/Intrnet-Technologies-Assignment3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\my_projects\Intrnet-Technologies-Assignment3\assest" />
+      <recent name="F:\my_projects\Intrnet-Technologies-Assignment3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\my_projects\Intrnet-Technologies-Assignment3" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4673ee9-82d3-4b98-a9df-4abde7683e30" name="Changes" comment="" />
+      <created>1724778320204</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724778320204</updated>
+      <workItem from="1724778321254" duration="3268000" />
+      <workItem from="1724845917554" duration="4636000" />
+      <workItem from="1725036430366" duration="405000" />
+      <workItem from="1725285773859" duration="6369000" />
+      <workItem from="1725359056168" duration="856000" />
+      <workItem from="1725556362220" duration="3902000" />
+      <workItem from="1725596097081" duration="3995000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
